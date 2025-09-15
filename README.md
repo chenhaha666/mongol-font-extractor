@@ -10,6 +10,7 @@ One-click extraction with progress visualization
 
 *How to use
 pip install -r requirements.txt
-python fontgui.py
+python TTFextraction.py
 create a folder named font
 put your ttf file into it
+
